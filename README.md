@@ -1,6 +1,6 @@
 ## CELE PROJEKTU
 * Nauka html oraz css
-* Stworzenie własnej strony internetowej
+* Szerzenie wiedzy o prezesie Biura Interwencji Obywatleksich z Białegostoku
 ## PLAN DZIAŁANIA
 * Stworzenie calego html oraz podstron
 * Tworzenie oraz personalizacja CSS
